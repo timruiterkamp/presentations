@@ -93,7 +93,7 @@ function log() {
 
 ### Node principles
 
-module.exports = sum
-var sum = require('./sum')
+module.exports = sum  
+var sum = require('./sum')  
 
 npm init --yes
