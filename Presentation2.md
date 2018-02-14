@@ -13,7 +13,7 @@
 
 * primitieven: data-types, dingen die in variabalen zitten als strings, numbers en boolean
 * if / else boven liggend
-* JSON (parsen en strinigy'en), Math(random, pi etc.), Date
+* JSON (parsen en stringify'en), Math(random, pi etc.), Date
 
 ### node includes
 
@@ -61,7 +61,7 @@
   * copyFile() - copy the file
 
 * Stream
-  * createReadStream() - Create readstream that connects to another file. Reads file linked to res | other side of the netwerk | return results. Connection is divided in chunks
+  * createReadStream() - Create readstream that connects to another file. Reads file linked to result | other side of the netwerk | return results. Connection is divided in chunks
   * pipe() - connect file
   * WriteStream() - send information to file
   * Don't read the full file at once but in chunks
