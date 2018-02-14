@@ -35,17 +35,22 @@
 * Binden: kernsuccesfactoren voor herhalingsaankoop
   * ervaringen gekochte product, beleving kwaliteit website, goede orderafhandeling en klantenservice
 
-### Domino model van communicatie effecten
+## Domino model van communicatie effecten
 
 * boodschap
+
 * kennis
+
   * Kennisdoelstelling: Merkbekendheid binnen doelgroep verhogen naar 60% in een jaar tijd
+
 * houding
+
   * Houdingdoelstelling: 55% van de doelgroep vindt het merk 'sympathiek'
+
 * gedrag
   * Gedragsdoelstelling: 10% van de doelgroep gaat over tot aankoop van product A
 
-### Digital analytics
+## Digital analytics
 
 * Meten, verzamelen, analyseren en rapporteren van internetdata met als doel het gebruik van internet te gebruiken
 * KPI's
