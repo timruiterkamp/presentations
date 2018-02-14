@@ -38,10 +38,15 @@
 ### Domino model van communicatie effecten
 
 * boodschap
+
 * kennis
+
   * Kennisdoelstelling: Merkbekendheid binnen doelgroep verhogen naar 60% in een jaar tijd
+
 * houding
+
   * Houdingdoelstelling: 55% van de doelgroep vindt het merk 'sympathiek'
+
 * gedrag
   * Gedragsdoelstelling: 10% van de doelgroep gaat over tot aankoop van product A
 
