@@ -7,7 +7,7 @@
 * conversion
 * loyalty
 
-** Stappen van Funnel **
+**Stappen van Funnel**
 
 * Bezoek: succesfactoren
 
