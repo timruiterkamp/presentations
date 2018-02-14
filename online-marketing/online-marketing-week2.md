@@ -35,7 +35,7 @@
 * Binden: kernsuccesfactoren voor herhalingsaankoop
   * ervaringen gekochte product, beleving kwaliteit website, goede orderafhandeling en klantenservice
 
-### Domino model van communicatie effecten
+## Domino model van communicatie effecten
 
 * boodschap
 
@@ -50,7 +50,7 @@
 * gedrag
   * Gedragsdoelstelling: 10% van de doelgroep gaat over tot aankoop van product A
 
-### Digital analytics
+## Digital analytics
 
 * Meten, verzamelen, analyseren en rapporteren van internetdata met als doel het gebruik van internet te gebruiken
 * KPI's
@@ -62,3 +62,31 @@
     * Bounce rate: % bezoekers dat de website direct weer verlaat
     * Conversieratio: aantal bezoekers dat het doel realisteert
     * Gebruiksduur: Totale hoeveelheid tijd die een gebruiker besteed op de website / aantal bezoeken in bepaalde periode
+
+## Marketinginstrumenten
+
+* SEO / SEA
+* Display advertising
+* Linkbuilding
+* Virals
+* Affiliates
+* Social Media
+* Mobile
+
+## Targeting
+
+* Sociodemografische / geografische targeting
+  * Alleen mannen tussen 25-40 jaar in Groningen
+* Contextual targeting
+  * Afgestemd op content, pasta reclame op site over Italie
+* Behavioral targeting (retargeting)
+  * Op basis van gedrag van bezoeker, zoek je new york op krijg je reclame over vliegreizen
+
+## Online video advertising
+
+* video advertising op YT, FB etc.
+* Besteding 110 miljoen in 2017
+* Bereik 90% van 13 jarige
+* 40% via mobiel bekeken
+* Ideaal om lichte tv-kijker te bereiken (met name 18-30 jr)
+* Hoe korter de spot hoe effectiever (max. 15sec), true view na 5 sec.
