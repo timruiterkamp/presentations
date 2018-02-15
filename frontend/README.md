@@ -1,5 +1,3 @@
-* Front-end
-
 # About this repository
 
 # Best practices
