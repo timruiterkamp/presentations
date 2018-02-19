@@ -1,8 +1,9 @@
 # Codenotes week 1
 
-# Scope & Closures
+## Scope & Closures
 
 ## Compiler
+
 * compiler heeft compiliation state
 * eerst lexing = opslitsen syntax voor js
 * parsen = namen geven aan stukjes coden voor code generation
@@ -13,7 +14,7 @@
 ## Rigt/left hand
 
 ```javascript
-var a = leeftijd
+var a = leeftijd;
 ```
 
 * right hand side is reference ( leeftijd )
@@ -22,16 +23,16 @@ var a = leeftijd
 * console.log() = left hand side (Vraag console met de functie log aan en de waarde in de functie)
 * console.log(leeftijd) = Haal de waarde van leeftijd op om het mee tegeven aan de left hand side
 
-* a = 23;  a en 23 Left hand side omdat het geen waarde heeft maar een harde value heeft
+* a = 23; a en 23 Left hand side omdat het geen waarde heeft maar een harde value heeft
 * a = leeftijd; a is left hand omdat het een waarde moet worden, scope a moet een waarde krijgen. Leeftijd is right hand side omdat de waarde van leeftijd moet worden opgehaald.
 * b = a; b is left hand en a is right hand. De waarde van a moet weer worden opgehaald.
 
 ```javascript
 function foo(a) {
-    console.log(a);
+  console.log(a);
 }
 
-foo (2);
+foo(2);
 ```
 
 * foo is in de function left hand omdat je een waarde ophaalt. (a) is left omdat de waarde moet worden opgehaald
@@ -54,9 +55,10 @@ var c = foo(2);
 
 > Left hand side is wat moet worden opgehaald, right hand side is wat wordt gedeclareerd
 
-
 **Onderstaande content is uit het boek [YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md);**
+
 ## Review (TL;DR)
+
 Scope is the set of rules that determines where and how a variable (identifier) can be looked-up. This look-up may be for the purposes of assigning to the variable, which is an LHS (left-hand-side) reference, or it may be for the purposes of retrieving its value, which is an RHS (right-hand-side) reference.
 
 LHS references result from assignment operations. Scope-related assignments can occur either with the = operator or by passing arguments to (assign to) function parameters.
@@ -71,10 +73,11 @@ Both LHS and RHS reference look-ups start at the currently executing Scope, and 
 Unfulfilled RHS references result in ReferenceErrors being thrown. Unfulfilled LHS references result in an automatic, implicitly-created global of that name (if not in "Strict Mode" [^note-strictmode]), or a ReferenceError (if in "Strict Mode" [^note-strictmode]).
 
 **Quiz Answers**
+
 ```javascript
 function foo(a) {
-	var b = a;
-	return a + b;
+  var b = a;
+  return a + b;
 }
 ```
 
