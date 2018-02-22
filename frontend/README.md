@@ -17,6 +17,7 @@ Images are taking at least 80% of the total page load time. We optimize image si
 ### Avoiding @Import tag for CSS anywhere in website. [source](https://varvy.com/pagespeed/avoid-css-import.html)
 CSS @import is notorious for loading every single imported file separately instead of paralleled. In other words, the browser of the visitor has to wait for every imported file to load instead of being able to load all your CSS files at once. This can heavily slow down your website, depending on the amount of CSS files you import. Also, when you use @import to include extra CSS files it creates extra HTTP requests, extra requests for the browser of your visitor to deal with.
 
+
 ## Image gallery
 
 ## Async API Data
